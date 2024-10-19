@@ -92,11 +92,11 @@ menu:
   main:
     - identifier: pages
       name: Pages
-      url: /pages/
+      url: /pages/about
       weight: 10
     - identifier: posts
       name: Posts
-      url: /posts/
+      url: /posts/2024/2024-10-19-a-sample-post
       weight: 20
     - identifier: example
       name: example.org
