@@ -4,4 +4,4 @@ draft: true
 title: 'About'
 ---
 
-salut c est une pageaaaaaaa
+Enchanté, je me prénomme Alex et je suis ravi de vous présenter le blog et le site adjacents
