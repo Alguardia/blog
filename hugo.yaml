@@ -62,7 +62,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Bienvenue sur mon blog"
-    Content: Vous trouverez ici des posts sur mes activités
+    Content: "Vous trouverez ici des posts sur mes activités. Il y a deux sections, une avec des pages et l'autre avec des posts quotidiens"
 
  
 
@@ -98,7 +98,7 @@ menu:
       url: /posts/2024/2024-10-19-a-sample-post
       weight: 20
     - identifier: example
-      name: alexsiteweb.com
+      name: alexwebsite.com
       url: https://alguardia.github.io/siteweb/
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
