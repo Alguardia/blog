@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://alguardia.github.io/blog/"
 title: Blog Alex
 paginate: 5
 theme: PaperMod
