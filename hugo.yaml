@@ -42,7 +42,6 @@ params:
 
   label:
     text: "Home"
-    icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
@@ -92,11 +91,11 @@ menu:
   main:
     - identifier: pages
       name: Pages
-      url: /pages/about
+      url: blog_2/public/pages/about
       weight: 10
     - identifier: posts
       name: Posts
-      url: /posts/2024/2024-10-19-a-sample-post
+      url: blog_2/public/posts/2024/2024-10-19-a-sample-post
       weight: 20
     - identifier: example
       name: example.org
