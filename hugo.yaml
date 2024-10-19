@@ -62,7 +62,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Bienvenue sur mon blog"
-    Content: Vous trouverez ici des posts sur mes activités
+    Content: "Vous trouverez ici des posts sur mes activités. Il y a deux sections, une avec des pages et l'autre avec des posts quotidiens"
 
  
 
