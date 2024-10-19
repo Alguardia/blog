@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blog Alex</title>
-    <link>https://alguardia.github.io/blog_2/</link>
+    <link>https://alguardia.github.io/</link>
     <description>Recent content on Blog Alex</description>
     <image>
       <title>Blog Alex</title>
-      <url>https://alguardia.github.io/blog_2/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://alguardia.github.io/blog_2/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://alguardia.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://alguardia.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.136.2</generator>
     <language>en</language>
     <lastBuildDate>Sat, 19 Oct 2024 14:52:33 +0200</lastBuildDate>
-    <atom:link href="https://alguardia.github.io/blog_2/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alguardia.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://alguardia.github.io/blog_2/pages/about/</link>
+      <link>https://alguardia.github.io/pages/about/</link>
       <pubDate>Sat, 19 Oct 2024 14:52:33 +0200</pubDate>
-      <guid>https://alguardia.github.io/blog_2/pages/about/</guid>
+      <guid>https://alguardia.github.io/pages/about/</guid>
       <description>&lt;p&gt;salut c est une pageaaaaaaa&lt;/p&gt;</description>
     </item>
     <item>
       <title>2024 10 19 a Sample Post</title>
-      <link>https://alguardia.github.io/blog_2/posts/2024/2024-10-19-a-sample-post/</link>
+      <link>https://alguardia.github.io/posts/2024/2024-10-19-a-sample-post/</link>
       <pubDate>Sat, 19 Oct 2024 14:50:49 +0200</pubDate>
-      <guid>https://alguardia.github.io/blog_2/posts/2024/2024-10-19-a-sample-post/</guid>
+      <guid>https://alguardia.github.io/posts/2024/2024-10-19-a-sample-post/</guid>
       <description>&lt;p&gt;TESTttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt&lt;/p&gt;</description>
     </item>
   </channel>
