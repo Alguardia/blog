@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alguardia.github.io/pages/about/</loc>
+    <loc>https://alguardia.github.io/blog_2/pages/about/</loc>
     <lastmod>2024-10-19T14:52:33+02:00</lastmod>
   </url><url>
-    <loc>https://alguardia.github.io/</loc>
+    <loc>https://alguardia.github.io/blog_2/</loc>
     <lastmod>2024-10-19T14:52:33+02:00</lastmod>
   </url><url>
-    <loc>https://alguardia.github.io/pages/</loc>
+    <loc>https://alguardia.github.io/blog_2/pages/</loc>
     <lastmod>2024-10-19T14:52:33+02:00</lastmod>
   </url><url>
-    <loc>https://alguardia.github.io/posts/2024/2024-10-19-a-sample-post/</loc>
+    <loc>https://alguardia.github.io/blog_2/posts/2024/2024-10-19-a-sample-post/</loc>
     <lastmod>2024-10-19T14:50:49+02:00</lastmod>
   </url><url>
-    <loc>https://alguardia.github.io/posts/</loc>
+    <loc>https://alguardia.github.io/blog_2/posts/</loc>
     <lastmod>2024-10-19T14:50:49+02:00</lastmod>
   </url><url>
-    <loc>https://alguardia.github.io/categories/</loc>
+    <loc>https://alguardia.github.io/blog_2/categories/</loc>
   </url><url>
-    <loc>https://alguardia.github.io/tags/</loc>
+    <loc>https://alguardia.github.io/blog_2/tags/</loc>
   </url>
 </urlset>

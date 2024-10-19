@@ -1,4 +1,4 @@
-baseURL: "https://alguardia.github.io"
+baseURL: "https://alguardia.github.io/blog_2/"
 title: Blog Alex
 paginate: 5
 theme: PaperMod
@@ -54,10 +54,10 @@ params:
     imageHeight: 120
     imageTitle: my image
     buttons:
+      - name: Pages
+        url: pages
       - name: Posts
         url: posts
-      - name: Tags
-        url: tags
 
   # home-info mode
   homeInfoParams:
