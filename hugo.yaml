@@ -9,7 +9,10 @@ buildFuture: false
 buildExpired: false
 
 
+
+
 params:
+  social : true
   title: Blog Alex
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
